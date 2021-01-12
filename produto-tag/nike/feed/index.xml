@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>nike &#8211; First-Ecommerce</title>
+	<atom:link href="http://localhost/produto-tag/nike/feed/" rel="self" type="application/rss+xml" />
+	<link>https://juniimsi.github.io/Primeiro-Ecommerce/</link>
+	<description>Só mais um site WordPress</description>
+	<lastBuildDate>Mon, 11 Jan 2021 00:51:05 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+
+<image>
+	<url>https://juniimsi.github.io/Primeiro-Ecommerce/wp-content/uploads/2021/01/cropped-carrinho-de-compras-de-design-xadrez-32x32.png</url>
+	<title>nike &#8211; First-Ecommerce</title>
+	<link>https://juniimsi.github.io/Primeiro-Ecommerce/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Sapato NikeHover FF</title>
+		<link>https://juniimsi.github.io/Primeiro-Ecommerce/produto/sapato-nikehover-ff/</link>
+					<comments>https://juniimsi.github.io/Primeiro-Ecommerce/produto/sapato-nikehover-ff/#respond</comments>
+		
+		<dc:creator><![CDATA[junior]]></dc:creator>
+		<pubDate>Mon, 11 Jan 2021 00:50:58 +0000</pubDate>
+				<guid isPermaLink="false">https://juniimsi.github.io/Primeiro-Ecommerce/?post_type=product&#038;p=85</guid>
+
+					<description><![CDATA[Pequena descriçãoPequena descriçãoPequena descriçãoPequena descriçãoPequena descrição]]></description>
+										<content:encoded><![CDATA[<p>Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto Grande descrição do produto</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://juniimsi.github.io/Primeiro-Ecommerce/produto/sapato-nikehover-ff/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Nike99 Tur</title>
+		<link>https://juniimsi.github.io/Primeiro-Ecommerce/produto/nike99-tur/</link>
+					<comments>https://juniimsi.github.io/Primeiro-Ecommerce/produto/nike99-tur/#respond</comments>
+		
+		<dc:creator><![CDATA[junior]]></dc:creator>
+		<pubDate>Mon, 11 Jan 2021 00:27:57 +0000</pubDate>
+				<guid isPermaLink="false">https://juniimsi.github.io/Primeiro-Ecommerce/?post_type=product&#038;p=83</guid>
+
+					<description><![CDATA[Pequena descrição do produtoPequena descrição do produtoPequena descrição do produtoPequena descrição do produto]]></description>
+										<content:encoded><![CDATA[<p>Descrição grande do produtoDescrição grande do produtoDescrição grande do produtoDescrição grande do produtoDescrição grande do produtoDescrição grande do produtoDescrição grande do produtoDescrição grande do produtoDescrição grande do produtoDescrição grande do produtoDescrição grande do produtoDescrição grande do produtoDescrição grande do produtoDescrição grande do produtoDescrição grande do produtoDescrição grande do produtoDescrição grande do produtoDescrição grande do produtoDescrição grande do produtoDescrição grande do produtoDescrição grande do produtoDescrição grande do produto.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://juniimsi.github.io/Primeiro-Ecommerce/produto/nike99-tur/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
